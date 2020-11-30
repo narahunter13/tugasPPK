@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tugas</string>
+    <string name="activity_1">Activity 1</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="textview">Activity 2</string>
+    <string name="ke_activity_1">Ke Activity 1</string>
+</resources>
